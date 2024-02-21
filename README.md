@@ -6,7 +6,7 @@
 - 💞️ I’m looking to collaborate on Web and App Development Projects.
 - 🔭 I’m currently working on [Spatial-Analytics-and-TerraIntelligence-Hub](https://github.com/Dwijx12/Spatial-Analytics-and-TerraIntelligence-Hub-SATH-Software-)
 - 📫 How to reach me with my E-mail : dwijnaranjex12@gmail.com
-- 📑 My Resume : [Link to the PDF](https://drive.google.com/file/d/1pNT1LGnbu08ue3JoN_s6MiQrsSR5646n/view?usp=sharing)
+- 📑 My Resume : [Link to the PDF](https://drive.google.com/file/d/1A7SA6UmQ5dlEzAmu41HQOe3Ono-kx1IC/view?usp=drive_link)
 <!--
 **Dwijx12/Dwijx12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
