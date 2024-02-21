@@ -9,7 +9,7 @@
 - 📫 How to reach me with my E-mail : dwijnaranjex12@gmail.com
 - 📑 My Resume : [Link to the PDF](https://drive.google.com/file/d/1A7SA6UmQ5dlEzAmu41HQOe3Ono-kx1IC/view?usp=drive_link)
 
-[](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Ionic-informational?style=flat&logo=ionic&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
 ...
