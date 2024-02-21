@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![DWIJ NARANJE GitHub Banner](./assets/banner.png)](https://dwijnaranjeportfolio.netlify.app/)
+[![DWIJ NARANJE GitHub Banner](./assets/Banner.png)](https://dwijnaranjeportfolio.netlify.app/)
 
 - 👋 Hi, I’m @Dwij Naranje.
 - 👀 I’m interested in New Technology, App Development, ML and AI.
