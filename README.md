@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Braydon's GitHub Banner](./assets/GitHubHeader.png)](https://braydoncoyer.dev)
+[![Braydon's GitHub Banner](./assets/GitHubHeader.png)](https://dwijnaranjeportfolio.netlify.app/)
 
 - 👋 Hi, I’m @Dwij Naranje.
 - 👀 I’m interested in New Technology, App Development, ML and AI.
