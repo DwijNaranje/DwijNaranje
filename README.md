@@ -6,6 +6,7 @@
 [![Visits Badge](https://badges.pufler.dev/visits/braydoncoyer/braydoncoyer)](https://dwijnaranjeportfolio.netlify.app/)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/DwijNaranje)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/dwij-naranje-x12/)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dwijx12&label=Profile%20views&color=0e75b6&style=flat" alt="dwijx12" /> </p>
 
 
 - 👀 I’m interested in New Technology, App Development, ML and AI.
@@ -39,7 +40,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dwijx12&label=Profile%20views&color=0e75b6&style=flat" alt="dwijx12" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dwijx12" alt="dwijx12" /></a> </p>
 
