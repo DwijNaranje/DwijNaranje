@@ -1,5 +1,7 @@
 
 [![DWIJ NARANJE GitHub Banner](./assets/Banner.png)](https://dwijnaranjeportfolio.netlify.app/)
+<h1 align="center">Hey , I'm Dwij Naranje</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
 [![Visits Badge](https://badges.pufler.dev/visits/braydoncoyer/braydoncoyer)](https://dwijnaranjeportfolio.netlify.app/)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/DwijNaranje)
