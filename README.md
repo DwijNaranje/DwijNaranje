@@ -54,15 +54,7 @@ Here are some ideas to get you started:
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dwijx12" alt="dwijx12" /></a> </p>
-
-
-
-
-
-
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dwijx12&show_icons=true&locale=en&layout=compact" alt="dwijx12" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dwijx12&show_icons=true&locale=en" alt="dwijx12" /></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dwijx12" alt="dwijx12" /></a> </p>
 
