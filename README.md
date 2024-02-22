@@ -16,6 +16,8 @@
 - 📫 How to reach me with my E-mail : dwijnaranjex12@gmail.com
 - 📑 My Resume : [Link to the PDF](https://drive.google.com/file/d/1A7SA6UmQ5dlEzAmu41HQOe3Ono-kx1IC/view?usp=drive_link)
 
+<p align="left"> <a href="https://twitter.com/dwijnaranje" target="blank"><img src="https://img.shields.io/twitter/follow/dwijnaranje?logo=twitter&style=for-the-badge" alt="dwijnaranje" /></a> </p>
+
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=HTML5&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
@@ -54,7 +56,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dwijx12" alt="dwijx12" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/dwijnaranje" target="blank"><img src="https://img.shields.io/twitter/follow/dwijnaranje?logo=twitter&style=for-the-badge" alt="dwijnaranje" /></a> </p>
+
 
 
 
