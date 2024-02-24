@@ -9,8 +9,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dwijx12&label=Profile%20views&color=0e75b6&style=flat" alt="dwijx12" /> </p>
 
 
-- 👀 I’m interested in New Technology, App Development, ML and AI.
-- 🌱 I’m currently learning Flutter.
+- 👀 I’m interested in New Technology, Web Development and Start-ups.
+- 🌱 I’m currently learning GIS based Technology.
+- ⚡ I’m Working to get ISRO GIS Summer Internship.
 - 💞️ I’m looking to collaborate on Web and App Development Projects.
 - 🔭 I’m currently working on [Spatial-Analytics-and-TerraIntelligence-Hub](https://github.com/Dwijx12/Spatial-Analytics-and-TerraIntelligence-Hub-SATH-Software-)
 - 📫 How to reach me with my E-mail : dwijnaranjex12@gmail.com
