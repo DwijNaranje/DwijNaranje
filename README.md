@@ -6,7 +6,7 @@
 [![Visits Badge](https://badges.pufler.dev/visits/braydoncoyer/braydoncoyer)](https://dwijnaranjeportfolio.netlify.app/)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/DwijNaranje)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/dwij-naranje-x12/)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dwijx12&label=Profile%20views&color=0e75b6&style=flat" alt="dwijx12" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=DwijNaranje&label=Profile%20views&color=0e75b6&style=flat" alt="dwijx12" /> </p>
 
 
 - 👀 I’m interested in New Technology, Web Development and Start-ups.
@@ -46,6 +46,6 @@ Here are some ideas to get you started:
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dwijx12&show_icons=true&locale=en&layout=compact" alt="dwijx12" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DwijNaranje&show_icons=true&locale=en&layout=compact" alt="dwijx12" /></p>
 
 
