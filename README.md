@@ -18,7 +18,7 @@
 - 📑 My Resume : [Link to the PDF](https://drive.google.com/file/d/1A7SA6UmQ5dlEzAmu41HQOe3Ono-kx1IC/view?usp=drive_link)
 
 <p align="left"> <a href="https://twitter.com/dwijnaranje" target="blank"><img src="https://img.shields.io/twitter/follow/dwijnaranje?logo=twitter&style=for-the-badge" alt="dwijnaranje" /></a> </p>
-<p align="Right"> <a href="https://www.linkedin.com/in/dwij-naranje-x12/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-Profile-informational?logo=linkedin&style=for-the-badge" alt="dwijnaranje" /></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/dwij-naranje-x12/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-Profile-informational?logo=linkedin&style=for-the-badge" alt="dwijnaranje" /></a> </p>
 
 
 <h3 align="left">Languages and Tools:</h3>
