@@ -2,6 +2,7 @@
 [![DWIJ NARANJE GitHub Banner](./assets/Banner.png)](https://dwijnaranjeportfolio.netlify.app/)
 <h1 align="center">Hey , I'm Dwij Naranje</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+<h4 align="center">Geographical Information System(GIS) and Machine Learning(ML) Intern at ISRO NRSC Hyderabad</h4>
 
 [![Visits Badge](https://komarev.com/ghpvc/?username=DwijNaranje&label=Visits&color=22DD22&style=flat)](https://dwijnaranjeportfolio.netlify.app/)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/DwijNaranje)
