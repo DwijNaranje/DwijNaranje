@@ -9,10 +9,10 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/dwij-naranje-x12/)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DwijNaranje&label=Profile%20views&color=0e75b6&style=flat" alt="dwijx12" /> </p>
 
-
+- 😄 Pronouns: Mr. DWIJ NARANJE
 - 👀 I’m interested in New Technology, Web Development and Start-ups.
 - 🌱 I’m currently learning GIS based Technology.
-- ⚡ I’m Working to get ISRO GIS Summer Internship.
+- ⚡ I’m Working at ISRO NRSC hyderabad as GIS and ML Summer Intern.
 - 💞️ I’m looking to collaborate on Web and App Development Projects.
 - 🔭 I’m currently working on [Spatial-Analytics-and-TerraIntelligence-Hub](https://github.com/Dwijx12/Spatial-Analytics-and-TerraIntelligence-Hub-SATH-Software-)
 - 📫 How to reach me with my E-mail : dwijnaranjex12@gmail.com
