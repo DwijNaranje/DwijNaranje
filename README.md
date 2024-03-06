@@ -1,6 +1,6 @@
 
 [![DWIJ NARANJE GitHub Banner](./assets/Banner.png)](https://dwijnaranjeportfolio.netlify.app/)
-<h2 align="center">Hey , I'm <h1>Dwij Naranje</h1></h2>
+<h2 align="center">Hey , I'm DWIJ NARANJE</h2>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 <h4 align="center">Geographic Information System(GIS) and Machine Learning(ML) Intern at ISRO NRSC Hyderabad</h4>
 
