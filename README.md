@@ -40,12 +40,6 @@
   <b><em>GitHub Stats:</em></b> <br/>
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DwijNaranje&" alt="dwijx12" />
   </p>
-  
-  <p align="center">
-  <b><em>Code Wars Stats:</em></b> <br/>
-    <img src="https://www.codewars.com/users/kakashikage/badges/large" alt="Code Wars Stats" /> <br/><br/>
-  </p>
-  
   <p align="center">
   <b><em>Language Stats:</em></b> <br/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DwijNaranje&show_icons=true&locale=en&layout=compact" alt="dwijx12" />
