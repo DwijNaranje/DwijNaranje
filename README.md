@@ -29,7 +29,21 @@
 <a href="https://twitter.com/dwijnaranje" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dwijnaranje" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/dwij-naranje-x12/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dwij-naranje-x12/" height="30" width="40" /></a>
 </p>
+<h2>👀 Stats</h2>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DwijNaranje&show_icons=true&locale=en&layout=compact" alt="dwijx12" /></p>
+<div>
+  
+  <p align="center">
+  <b><em>GitHub Stats:</em></b> <br/>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DwijNaranje&" alt="dwijx12" />
+
+  </p>
+  <p align="center">
+  <b><em>Code Wars Stats:</em></b> <br/>
+    <img src="https://www.codewars.com/users/kakashikage/badges/large" alt="Code Wars Stats" /> <br/><br/>
+  </p>
+</div>
+
+<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DwijNaranje&show_icons=true&locale=en&layout=compact" alt="dwijx12" /></p>
 
 
