@@ -15,7 +15,7 @@
 - 🌱 I’m currently learning GIS based Technology.
 - ⚡ I’m Working at ISRO NRSC hyderabad as GIS and ML Summer Intern.
 - 💞️ I’m looking to collaborate on Web and App Development Projects.
-- 🔭 I’m currently working on [Spatial-Analytics-and-TerraIntelligence-Hub](https://github.com/Dwijx12/Spatial-Analytics-and-TerraIntelligence-Hub-SATH-Software-)
+- 🔭 I’m currently working on [Spatial-Analytics-and-TerraIntelligence-Hub](https://github.com/DwijNaranje/Spatial-Analytics-and-TerraIntelligence-Hub-SATH-Software-)
 - 📫 How to reach me with my E-mail : dwijnaranjex12@gmail.com
 - 📑 My Resume : [Link to the PDF](https://drive.google.com/file/d/1G8QROORIeYZdtn75HGYaj2RtyGnBZxnv/view?usp=sharing)
 
