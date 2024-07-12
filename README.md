@@ -17,7 +17,7 @@
 - 💞️ I’m looking to collaborate on Web and App Development Projects.
 - 🔭 I’m currently working on [Spatial-Analytics-and-TerraIntelligence-Hub](https://github.com/DwijNaranje/Spatial-Analytics-and-TerraIntelligence-Hub-SATH-Software-)
 - 📫 How to reach me with my E-mail : dwijnaranjex12@gmail.com
-- 📑 My Resume : [Link to the PDF](https://drive.google.com/file/d/1NM1gCMUZZVhWu5lJ498J-HxWAwEaT6HP/view?usp=sharing)
+- 📑 My Resume : [Link to the PDF](https://drive.google.com/file/d/19ZGT45kzBkLOPF-Ym0hF11iudpNi8Hos/view?usp=sharing)
 
 <p align="center"> <a href="https://twitter.com/dwijnaranje" target="blank"><img src="https://img.shields.io/twitter/follow/dwijnaranje?logo=twitter&style=for-the-badge" alt="dwijnaranje" /></a> </p>
 <p align="center"> <a href="https://www.linkedin.com/in/dwij-naranje-x12/" target="blank"><img src="https://img.shields.io/badge/connect @dwij-naranje-x12?logo=linkedin&style=for-the-badge" alt="dwijnaranje" /></a> </p>
