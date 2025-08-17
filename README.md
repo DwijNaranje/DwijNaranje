@@ -12,7 +12,7 @@
 
 - 😄 Pronouns: Mr. DWIJ NARANJE
 - 👀 I’m interested in New Technology, Web Development and Start-ups.
-- 🌱 I’m currently learning GIS based Technology.
+- 🌱 I’m currently learning about AI agents and Machine Learing with AWS Cloud.
 - ⚡ I’m Working at ISRO NRSC hyderabad as GIS and ML Summer Intern.
 - 💞️ I’m looking to collaborate on Web and App Development Projects.
 - 🔭 I’m currently working on [AI agent for lead generation](https://github.com/DwijNaranje/AI-agent-for-lead-generation)
